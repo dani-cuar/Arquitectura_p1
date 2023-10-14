@@ -1,2 +1,6 @@
 # Arquitectura_p1
-Definición de la exploración del espacio de diseño para las pruebas de la microarquitectura CortexA76
+Repositorio de los codigos utilizados para la simulacion de diferentes workloads con diferentes configuraciones de microarquitectura en el procesador Cortex A76.
+
+Link de las simulaciones realizadas: http://bit.ly/gem5-simulations
+
+
